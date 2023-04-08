@@ -7,8 +7,9 @@ greencar_height=100;
 background_image = "parkingLot.jpg";
 greencar_image = "car2.png";
 
-greencar_x=5;
-greencar_y=225;
+
+greencar_x=430;
+greencar_y=89;
 
 function add() {
   background_imgTag=new Image();
